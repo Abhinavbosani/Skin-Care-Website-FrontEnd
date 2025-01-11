@@ -314,6 +314,7 @@ nav{
     justify-content: center;
     align-items: center;
     margin-top: 40px;
+    font-family: "Quicksand", serif;
   }
   #four_contents {
     width: 80%;
@@ -349,6 +350,7 @@ nav{
     display: flex;
     flex-direction: column;
     background-color: #f8f8ff;
+    font-family: "Quicksand", serif;
   }
   
   #five_contents_one {
